@@ -129,7 +129,7 @@ h3 {
 }
 
 .white {
-    color: #dc784a
+    color: white;
 }
 
 .l-bloc .navbar-toggle .icon-bar {
@@ -530,6 +530,7 @@ label {
 .social {
     display: flex;
     justify-content: space-between;
+    padding-top: 20px;
     margin: auto;
     max-width: 600px
 }
