@@ -60,7 +60,7 @@ h3 {
     text-shadow: 0 2px 8px #000;
     font-family: "helvetica";
     font-size: clamp(1.3rem, 3vw, 1.8rem);
-    color: #fff
+
 }
 
 .bloc-md {
@@ -129,7 +129,7 @@ h3 {
 }
 
 .white {
-    color: white;
+    color: #F3976C
 }
 
 .l-bloc .navbar-toggle .icon-bar {
