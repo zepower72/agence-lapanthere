@@ -59,7 +59,10 @@ h3 {
 .white {
     font-family: "helvetica";
     font-size: clamp(1.3rem, 3vw, 1.8rem);
-    color: white
+    color: black;
+    background-color: #fff;
+    width: 70%;
+    margin: 0 auto
 }
 
 .bloc-md {
@@ -491,7 +494,7 @@ a[data-lightbox]:hover img {
 }
 
 .logo-contact {
-    width: 45%;
+    width: 70%;
     border-radius: 50%;
     box-shadow: 0 2px 8px rgb(0, 0, 0);
     box-shadow: 5px 5px 8px #cbcfd5, -5px -5px 8px #eff3f9
