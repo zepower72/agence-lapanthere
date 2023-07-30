@@ -8,13 +8,18 @@
 
 
 <url>
-  <loc>https://zepower72.github.io/agence-lapanthere/index.html</loc>
-  <lastmod>2023-07-30T09:38:04+00:00</lastmod>
+  <loc>https://zepower72.github.io/agence-lapanthere/</loc>
+  <lastmod>2023-07-30T10:32:23+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://zepower72.github.io/agence-lapanthere/index.html</loc>
+  <lastmod>2023-07-30T10:32:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://zepower72.github.io/agence-lapanthere/pages/contact.html</loc>
-  <lastmod>2023-07-30T09:38:04+00:00</lastmod>
+  <lastmod>2023-07-30T10:32:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
